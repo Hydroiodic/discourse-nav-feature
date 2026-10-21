@@ -3,4 +3,4 @@ zh_CN:
     description: ""
   filters:
     custom:
-      help: "标签"
+      help: "带有%{tag}标签的话题"

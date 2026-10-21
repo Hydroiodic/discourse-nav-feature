@@ -1,6 +1,7 @@
 nav_tag:
-  type: string
-  default: "精品"
+  type: list
+  list_type: simple
+  default: "精品|日记"
   description:
     zh_CN: "在导航栏顶部显示的标签"
-    en: "Tag to show in navbar"
+    en: "Tags to show in navbar"

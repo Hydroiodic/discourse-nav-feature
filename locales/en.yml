@@ -1,3 +1,6 @@
 en:
   theme_metadata:
     description: ""
+  filters:
+    custom:
+      help: "Topics tagged %{tag}"

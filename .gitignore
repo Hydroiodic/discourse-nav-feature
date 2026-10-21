@@ -1,3 +1,4 @@
 .discourse-site
+.eslintcache
 node_modules
 HELP
